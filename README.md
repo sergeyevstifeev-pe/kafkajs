@@ -1,3 +1,11 @@
+## This is a patched version of `kafkajs` to improve CPU utilization on idle consumers
+
+This PR has been applied on top of version 2.2.4 of `kafkajs`: https://github.com/tulios/kafkajs/pull/1667
+
+Repo state from which this package was published: https://github.com/sergeyevstifeev/kafkajs.git
+
+The rest of the library has been kept intact.
+
 [![npm version](https://img.shields.io/npm/v/kafkajs?color=%2344cc11&label=stable)](https://www.npmjs.com/package/kafkajs) [![npm pre-release version](https://img.shields.io/npm/v/kafkajs/beta?label=pre-release)](https://www.npmjs.com/package/kafkajs) [![Build Status](https://dev.azure.com/tulios/kafkajs/_apis/build/status/tulios.kafkajs?branchName=master)](https://dev.azure.com/tulios/kafkajs/_build/latest?definitionId=2&branchName=master) [![Slack Channel](https://join.slack.com/t/kafkajs/shared_invite/zt-1ezd5395v-SOpTqYoYfRCyPKOkUggK0Abadge.svg)](https://join.slack.com/t/kafkajs/shared_invite/zt-1ezd5395v-SOpTqYoYfRCyPKOkUggK0A)
 <br />
 <p align="center">
